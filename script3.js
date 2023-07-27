@@ -2,7 +2,7 @@
 function translateToEnglish(textToTranslate) {
     const settings = {
       method: 'post',
-      url: 'https://microsoft-translator-text.p.rapidapi.com/translate',
+      url: 'https://rychames.github.io/VestIFAM3/',
       headers: {
         'content-type': 'application/json',
         'X-RapidAPI-Key': 'dc64242e61mshbd0646c13cbceedp1ee2d2jsn2a3446724c82',
